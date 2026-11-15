@@ -20,16 +20,21 @@ An interactive, web-based data analysis and visualization tool powered by **Pyth
 ## 💻 Run Locally
 
 1. **Clone the repository:**
-   ```bash
-  git clone https://github.com/umuterenkaplan1/ai-data-analyst.git
-   ```
+
+```bash
+git clone https://github.com/umuterenkaplan1/ai-data-analyst.git
+cd ai-data-analyst
+```
 
 2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+
+```bash
+pip install -r requirements.txt
+```
 
 3. **Run the application:**
-   ```bash
-   python -m streamlit run app.py
-   ```
+
+```bash
+python -m streamlit run app.py
+```
+
